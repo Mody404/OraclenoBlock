@@ -46,5 +46,5 @@ iptables -P OUTPUT ACCEPT
 
 echo "Congratulations! Your iptables are now as clear as the Oracle's vision! Thank you for using OracleRemoveBlock!"
 echo "Remember, with great power, comes great responsibility. Use your newfound firewall freedom wisely!"
-echo "Made By https://github.com/Mody404/ "
+echo "Made By https://github.com/Mody404/ Thx For Using :D"
 
